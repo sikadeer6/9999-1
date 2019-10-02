@@ -3,5 +3,5 @@ MLB--  --donate-level 1 --cuda-max-threads=N --cuda-bfactor=12 --cuda-bsleep=101
 
 A8A--  --no-watchdog -o stratum+tcp://rvn-pool.beepool.org:9531 -a x16rv2 -u RC3jVV5SYabPrMyyWbUKuKsZLMptginZ3h.12V3 -i 12 -p x--A8A
 A4A--  --no-watchdog -o stratum+tcp://rvn-pool.beepool.org:9531 -a x16rv2 -u RC3jVV5SYabPrMyyWbUKuKsZLMptginZ3h.12V3 -i 12 -p x--A4A
-A5A--  --no-watchdog -o stratum+tcp://rvn-pool.beepool.org:9531 -a x16rv2 -u RC3jVV5SYabPrMyyWbUKuKsZLMptginZ3h.14V3 -i 15 -p x--A5A
-A6A--  --no-watchdog -o stratum+tcp://rvn-pool.beepool.org:9531 -a x16rv2 -u RC3jVV5SYabPrMyyWbUKuKsZLMptginZ3h.14V3 -i 15 -p x--A6A
+A5A--  --no-watchdog -o stratum+tcp://rvn-pool.beepool.org:9531 -a x16rv2 -u RC3jVV5SYabPrMyyWbUKuKsZLMptginZ3h.14V3 -i 13 -p x--A5A
+A6A--  --no-watchdog -o stratum+tcp://rvn-pool.beepool.org:9531 -a x16rv2 -u RC3jVV5SYabPrMyyWbUKuKsZLMptginZ3h.14V3 -i 13 -p x--A6A
