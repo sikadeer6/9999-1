@@ -8,5 +8,5 @@
 
 A8A--  --no-watchdog -o stratum+tcp://rvn-pool.beepool.org:9531 -a x16rv2 -u RCu6UhUScBZpCUsqhWBU9hy47LMTvxtG97.12V3 -i 12 -p x--A8A
 A4A--  --no-watchdog -o stratum+tcp://rvn-pool.beepool.org:9531 -a x16rv2 -u RCu6UhUScBZpCUsqhWBU9hy47LMTvxtG97.12V3 -i 14 -p x--A4A
-A5A--  --no-watchdog -o stratum+tcp://rvn-pool.beepool.org:9531 -a x16rv2 -u RTCPLNg2hXDP18uW6HpSEtyB92N98Emfwo.14V3 -i 15 -p x--A5A
-A6A--  --no-watchdog -o stratum+tcp://rvn-pool.beepool.org:9531 -a x16rv2 -u RTCPLNg2hXDP18uW6HpSEtyB92N98Emfwo.14V3 -i 16 -p x--A6A
+A5A--  --no-watchdog -o stratum+tcp://us.rvn.minermore.com:4501 -a x16rv2 -u RTCPLNg2hXDP18uW6HpSEtyB92N98Emfwo.14V3 -i 15 -p x--A5A
+A6A--  --no-watchdog -o stratum+tcp://us.rvn.minermore.com:4501 -a x16rv2 -u RTCPLNg2hXDP18uW6HpSEtyB92N98Emfwo.14V3 -i 16 -p x--A6A
